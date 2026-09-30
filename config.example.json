@@ -1,0 +1,11 @@
+{
+  "planner": {
+    "model": "cu/claude-sonnet-5-5-max",
+    "reasoning": "high",
+    "role": "Writes the plan, then verifies the finished work as orchestrator."
+  },
+  "implementer": {
+    "model": null,
+    "note": "Null = inherit the session's current model. Set to pin a cheaper/faster model."
+  }
+}
