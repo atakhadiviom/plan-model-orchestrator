@@ -21,7 +21,7 @@ Plan on model A, implement on model B, verify on A.
 3. **Verify** — after all tasks pass, re-read the plan + diffs as the
    planner and either approve or file fix-up tasks. Loop until clean.
 
-Default planner is `cu/claude-sonnet-5-5-max` (override in
+Default planner is `cc/claude-sonnet-5-5` (override in
 `config.json`). Copy `config.example.json` to `config.json` to pin
 both models.
 

@@ -7,7 +7,7 @@ Prints: planner=<model> implementer=<model|session-default>
 import json
 import sys
 
-DEFAULT_PLANNER = "cu/claude-sonnet-5-5-max"
+DEFAULT_PLANNER = "cc/claude-sonnet-5-5"
 
 
 def main(path=None):

@@ -1,6 +1,6 @@
 {
   "planner": {
-    "model": "cu/claude-sonnet-5-5-max",
+    "model": "cc/claude-sonnet-5-5",
     "reasoning": "high",
     "role": "Writes the plan, then verifies the finished work as orchestrator."
   },

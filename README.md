@@ -4,7 +4,7 @@ Plan with one model, implement with another, verify with the planner.
 
 ## Use
 
-Planner defaults to Sonnet 5.5 Max (`cu/claude-sonnet-5-5-max` on
+Planner defaults to Sonnet 5.5 (`cc/claude-sonnet-5-5` on
 OmniRoute); implementer inherits your session model.
 
 ```bash
